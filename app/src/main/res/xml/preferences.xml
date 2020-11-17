@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <PreferenceCategory android:title="Personal data">
+
+        <EditTextPreference
+            android:defaultValue=""
+            android:key="name"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="Username"
+            android:summary="Enter your username "
+            android:dialogTitle="Enter your username "
+            android:dialogMessage="Enter your username"
+            android:inputType="textCapWords"
+            />
+        <EditTextPreference
+            android:defaultValue=""
+            android:key="email"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="E-mail"
+            android:summary="Enter your e-mail "
+            android:dialogTitle="Enter your e-mail "
+            android:dialogMessage="Enter your e-mail"
+            android:inputType="textEmailAddress"/>
+        <EditTextPreference
+            android:defaultValue=""
+            android:key="password"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="Password"
+            android:summary="Enter your password "
+            android:dialogTitle="Enter your password "
+            android:dialogMessage="Enter your password"
+            android:inputType="textPassword"/>
+
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
