@@ -20,7 +20,7 @@ Podsjetnik uredjujemo tako sto pritisnemo LongClick na neki od podsjetnika u lis
 ## Izgled aplikacije
 
 <p float="left">
-<img src="125562153_365737347834554_9012709144170680689_n.jpg" alt="alt text1" width="250" height="400"/>|
+<img src="125562153_365737347834554_9012709144170680689_n.jpg" alt="alt text1" width="250" height="400"/>
 
 <img src="125539131_371571450782487_4087172652348690916_n.jpg" alt="alt text" width="250" height="400"/>
 </p>
