@@ -1,9 +1,9 @@
 # Notes
 Android app for saving notes or reminders.
 The application allows:
-* Add a new reminder
-* Delete an already added reminder from the list
-* Edit an already added reminder in the list
+* Adding a new reminder
+* Deleting an already added reminder from the list
+* Editing an already added reminder in the list
 
 In the settings the user can save his username, e-mail and password.
 
