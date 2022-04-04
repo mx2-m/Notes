@@ -1,23 +1,23 @@
 # Notes
-Android app za spremanje zapisaka ili podsjetnika. 
-Aplikacija omogucava:
-* Dodavanje novog podjetnika 
-* Brisanje vec dodanog podsjetnika sa liste 
-* Uredjivanje vec dodanog podsjetnika u listi
+Android app for saving notes or reminders.
+The application allows:
+* Add a new reminder
+* Delete an already added reminder from the list
+* Edit an already added reminder in the list
 
-U postavkama uporabnik moze da spremi svoje uporabnisko ime, e-mail i lozinku. 
+In the settings the user can save his username, e-mail and password.
 
-#### Dodavanje novog podsjetnika 
-Novi podsjetnik dodajemo klikom na gumb `<Take Note>`. U novi podjetnik mozemo da dodamo: naslov, sadrzaj i datum. Datum obavezno mora biti formata dan/mjesec/godina.
+#### Add a new reminder
+We add a new reminder by clicking on the `<Take Note >` button. In the new reminder we can add: title, content and date. The date must be day / month / year.
 
-#### Brisanje podsjetnika
-Podsjetnik mozemo obrisati klikom na podsjetnik u listi na pocetnom zaslonu.
+#### Delete a reminder
+We can delete the reminder by clicking on the reminder in the list on the home screen.
 
-#### Uredjivanje podsetnika
-Podsjetnik uredjujemo tako sto pritisnemo LongClick na neki od podsjetnika u listi, te nam se otvori aktivnost za uredjivanje.
+#### Edit reminders
+We edit the reminder by pressing LongClick on one of the reminders in the list, and the editing activity opens.
                                                                      
 
-## Izgled aplikacije
+## App layout
 
 <p float="left">
 <img src="125562153_365737347834554_9012709144170680689_n.jpg" alt="alt text1" width="250" height="400"/>
